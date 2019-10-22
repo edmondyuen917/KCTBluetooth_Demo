@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">KCTSDK demo</string>
+    
+    <string name="no_know_device">未知设备</string>
+    <string name="ble_not_supported">该手机不支持蓝牙LE功能</string>
+    <string name="error_bluetooth_not_supported">不支持蓝牙</string>
+    <string name="pls_switch_bt_on">请打开蓝牙</string>
+
+    <string name="connect_none">未连接</string>
+    <string name="connecting">连接中...</string>
+    <string name="connected">已连接</string>
+    <string name="connect_fail">已断开连接</string>
+
+
+    <string name="scan">搜索</string>
+    <string name="disconnect">断开连接</string>
+    <string name="syn_time">同步时间</string>
+    <string name="syn_firmware">同步固件信息</string>
+    <string name="find_device">查找设备</string>
+    <string name="syn_brace">同步设备配置</string>
+    <string name="syn_history_run">同步历史步数</string>
+    <string name="syn_history_sleep">同步历史睡眠</string>
+    <string name="syn_history_heart">同步历史心率</string>
+    <string name="syn_history_blood">同步历史血压</string>
+    <string name="syn_history_oxygen">同步历史血氧</string>
+    <string name="syn_history_sport">同步历史运动</string>
+    <string name="syn_real_run">同步实时步数</string>
+    <string name="syn_real_heart">同步实时心率</string>
+    <string name="syn_userInfo">同步个人信息</string>
+    <string name="syn_camera">相机操作</string>
+    <string name="syn_unit">同步单位设置</string>
+    <string name="syn_notification">通知消息同步</string>
+    <string name="syn_call">电话通知同步</string>
+    <string name="syn_sms">短信通知同步</string>
+    <string name="syn_clock">闹钟同步</string>
+    <string name="syn_longSit">久坐同步</string>
+    <string name="syn_water">喝水同步</string>
+    <string name="syn_noDir">勿扰同步</string>
+    <string name="syn_qixiang">气象同步</string>
+    <string name="Firmware_upgrade">固件升级</string>
+    <string name="syn_motion_status">运动状态同步到设备</string>
+    <string name="target_setting">运动目标设置</string>
+    <string name="device_bind">设备绑定请求</string>
+    <string name="device_unbind">设备解绑请求</string>
+    <string name="HID_connect">HID连接</string>
+    <string name="HID_disconnect">HID断开</string>
+    <string name="syn_inquire_flash_version">查询FLASH数据版本号</string>
+    <string name="syn_set_flash_begin_command">写入FLASH数据开始命令</string>
+    <string name="get_flash_data">获得FLASH数据文件包</string>
+    <string name="send_flash_data">发送Flash数据包</string>
+
+    <string name="device_not_connect">设备未连接</string>
+    <string name="please_disconnect">请先断开蓝牙</string>
+    <string name="data_empty">数据为空</string>
+    <string name="device_not_support">该功能暂不支持</string>
+
+    <string name="syn_motion_status_response">运动状态同步到设备响应</string>
+    <string name="syn_motion_status_to_app">运动状态同步到APP</string>
+    <string name="unbind_device_success">解除绑定成功</string>
+    <string name="unbind_device_fail">解除绑定失败</string>
+    <string name="unbind_device_response">解除绑定响应</string>
+    <string name="bind_device_success">绑定设备成功</string>
+    <string name="bind_device_fail">绑定设备失败</string>
+    <string name="bind_device_response">绑定设备响应</string>
+
+    <string name="send">send:</string>
+    <string name="receive">receive:</string>
+
+</resources>

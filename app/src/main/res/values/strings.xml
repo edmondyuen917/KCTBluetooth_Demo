@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">KCTSDK demo</string>
+    
+    <string name="no_know_device">Unknown device</string>
+    <string name="ble_not_supported">BLE is not supported in the Smart Phone</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not support</string>
+    <string name="pls_switch_bt_on">"Please switch on Bluetooth"</string>
+
+    <string name="connect_none">Not connected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="connect_fail">DisConnected</string>
+
+
+    <string name="scan">Scan</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="syn_time">syn_time</string>
+    <string name="syn_firmware">syn_firmware</string>
+    <string name="find_device">find_device</string>
+    <string name="syn_brace">syn_brace</string>
+    <string name="syn_history_run">syn_history_run</string>
+    <string name="syn_history_sleep">syn_history_sleep</string>
+    <string name="syn_history_heart">syn_history_heart</string>
+    <string name="syn_history_sport">syn_history_sport</string>
+    <string name="syn_history_blood">syn_history_blood</string>
+    <string name="syn_history_oxygen">syn_history_oxygen</string>
+    <string name="syn_real_run">syn_real_run</string>
+    <string name="syn_real_heart">syn_real_heart</string>
+    <string name="syn_userInfo">syn_userInfo</string>
+    <string name="syn_camera">syn_camera</string>
+    <string name="syn_unit">syn_unit</string>
+    <string name="syn_notification">syn_notification</string>
+    <string name="syn_call">syn_call</string>
+    <string name="syn_sms">syn_sms</string>
+    <string name="syn_clock">syn_clock</string>
+    <string name="syn_longSit">syn_longSit</string>
+    <string name="syn_water">syn_water</string>
+    <string name="syn_noDir">syn_noDir</string>
+    <string name="syn_qixiang">syn_qixiang</string>
+    <string name="Firmware_upgrade">Firmware_upgrade</string>
+    <string name="syn_motion_status">syn_motion_status</string>
+    <string name="target_setting">target_setting</string>
+    <string name="device_bind">Device_binding_request</string>
+    <string name="device_unbind">Device_unbinding_request</string>
+    <string name="HID_connect">HID_connect</string>
+    <string name="HID_disconnect">HID_disconnect</string>
+    <string name="syn_inquire_flash_version">syn_inquire_flash_version</string>
+    <string name="syn_set_flash_begin_command">syn_set_flash_begin_command</string>
+    <string name="get_flash_data">get_flash_data</string>
+    <string name="send_flash_data">send_flash_data</string>
+
+    <string name="device_not_connect">device is not connect!</string>
+    <string name="please_disconnect">Please disconnect device</string>
+    <string name="data_empty">the data is empty</string>
+    <string name="device_not_support">This feature is not supported at this time!</string>
+
+    <string name="syn_motion_status_response">Motion state synchronization to device response</string>
+    <string name="syn_motion_status_to_app">Motion status sync to APP</string>
+    <string name="unbind_device_success">unbind_device_success</string>
+    <string name="unbind_device_fail">unbind_device_fail</string>
+    <string name="unbind_device_response">unbind_device_response</string>
+    <string name="bind_device_success">bind_device_success</string>
+    <string name="bind_device_fail">bind_device_fail</string>
+    <string name="bind_device_response">bind_device_response</string>
+
+    <string name="send">send:</string>
+    <string name="receive">receive:</string>
+
+</resources>
