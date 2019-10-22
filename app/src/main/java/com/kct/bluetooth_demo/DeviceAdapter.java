@@ -12,6 +12,8 @@ import com.kct.bluetooth.bean.BluetoothLeDevice;
 import java.util.Arrays;
 import java.util.List;
 
+
+// branch DEBUG here
 public class DeviceAdapter extends BaseAdapter {
 
     private Context context;
